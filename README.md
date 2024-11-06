@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Leetcode Stats](https://leetcode.com/u/triuyen/)
+![Leetcode Stats]([https://leetcode.com/u/triuyen/](https://leetcard.jacoblin.cool/JacobLinCool)
+)
