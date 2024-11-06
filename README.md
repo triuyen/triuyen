@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 
 <img src="https://leetcard.jacoblin.cool/triuyen?theme=dark&font=IBM%20Plex%20Sans%20Hebrew&ext=heatmap" width="300">
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/triuyen?theme=dark&font=IBM%20Plex%20Sans%20Hebrew&ext=heatmap)
+<!--![Leetcode Stats](https://leetcard.jacoblin.cool/triuyen?theme=dark&font=IBM%20Plex%20Sans%20Hebrew&ext=heatmap)-->
 
