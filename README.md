@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 Currently an enthusiastic Master 1 software engineer student. I worked for 2 years as a pipeline consultant at Illumination Studio Paris.
-- 🔭 I’m currently working on a bank managment systeme using C++ and sql 
+- 🔭 I’m currently working on a bank managment systeme using C++ and sql  / and Learning about Machine Learning .
 - 👯 I’m looking to collaborate on C++ , Python and Big Data related projects
 - 🌱 I’m currently learning C++
   
