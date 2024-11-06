@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Leetcode Stats](https://leetcard.triuyen/triuyen)
+![Leetcode Stats](https://leetcard.triuyen.cool/lapor?ext=heatmap)
 
