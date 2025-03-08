@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-Currently an enthusiastic Master 1 software engineer student. I worked for 2 years as a pipeline consultant at Illumination Studio Paris.
+Currently an enthusiastic Master 1 software engineer student. 
+I worked for 2 years as a pipeline consultant at Illumination Studio Paris and am currently a tools/automation developper in a financial Risk analyst team
 - 🔭 Passionate about  Reinforcement Learning / Machine Learning / Deep Learning
 - 👯 I’m looking to collaborate on C++ , Python , SQL and Big Data/ fintech related projects
   
