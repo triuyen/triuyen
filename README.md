@@ -1,9 +1,8 @@
 ## Hi there 👋
 
 Currently an enthusiastic Master 1 software engineer student. I worked for 2 years as a pipeline consultant at Illumination Studio Paris.
-- 🔭 I’m currently  Learning about Reinforcement Learning / Machine Learning / Deep Learning
-- 👯 I’m looking to collaborate on C++ , Python and Big Data related projects
-- 🌱 I’m currently learning C++ , Rust , PowerBI , SQL
+- 🔭 Passionate about  Reinforcement Learning / Machine Learning / Deep Learning
+- 👯 I’m looking to collaborate on C++ , Python , SQL and Big Data/ fintech related projects
   
 <!--
 **triuyen/triuyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
