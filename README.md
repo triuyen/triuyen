@@ -1,5 +1,6 @@
 ## Hi there 👋
  C# / C++ / Rust Developper 
+ AI/ML Developpment and Quant finance
   
 <!--
 **triuyen/triuyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
